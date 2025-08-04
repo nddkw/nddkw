@@ -17,7 +17,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/ndd.kw?igsh=aDRscXR5cTY2ZXBo&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ndd.kw?igsh=aDRscXR5cTY2ZXBo&utm_source=qr"> </a>
          <a href=https://m.blog.naver.com/nddkw> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://m.blog.naver.com/nddkw"> </a>
-         <a href=mailto:nddkw1@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:nddkw1@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
